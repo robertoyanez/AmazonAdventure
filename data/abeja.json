@@ -1,0 +1,4 @@
+{
+	"abeja":{"sx":0,"sy":150,"tileW":53,"tileH":55,"frames":3},
+	"abejaDie":{"sx":365,"sy":150,"tileW":50,"tileH":50,"frames":1}
+}

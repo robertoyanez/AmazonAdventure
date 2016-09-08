@@ -1,0 +1,10 @@
+{
+	"obj1":{"sx":0,"sy":0,"tileW":60,"tileH":60,"frames":1},
+	"obj2":{"sx":0,"sy":60,"tileW":60,"tileH":60,"frames":1},
+	"obj3":{"sx":0,"sy":120,"tileW":60,"tileH":60,"frames":1},
+	"obj4":{"sx":0,"sy":180,"tileW":60,"tileH":60,"frames":1},
+	"obj1Sombra":{"sx":0,"sy":240,"tileW":60,"tileH":60,"frames":1},
+	"obj2Sombra":{"sx":0,"sy":300,"tileW":60,"tileH":60,"frames":1},
+	"obj3Sombra":{"sx":0,"sy":360,"tileW":60,"tileH":60,"frames":1},
+	"obj4Sombra":{"sx":0,"sy":420,"tileW":60,"tileH":60,"frames":1}
+}

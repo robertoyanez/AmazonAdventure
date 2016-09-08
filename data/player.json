@@ -1,0 +1,8 @@
+{
+	"playerS":{"sx":1344,"sy":130,"tileW":64,"tileH":64,"frames":0},
+	"playerW":{"sx":693,"sy":0,"tileW":64,"tileH":64,"frames":0},
+	"playerJ":{"sx":960,"sy":64,"tileW":64,"tileH":64,"frames":0},
+	"lanzar" :{"sx":0,"sy":64,"tileW":64,"tileH":64,"frames":2},
+	"playerD":{"sx":0,"sy":0,"tileW":64,"tileH":64,"frames":5},
+	"playerDd":{"sx":1344,"sy":192,"tileW":64,"tileH":64,"frames":0}
+}

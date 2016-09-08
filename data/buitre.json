@@ -1,0 +1,4 @@
+{
+	"buitre":{"sx":0,"sy":217,"tileW":50,"tileH":50,"frames":3},
+	"buitreDie":{"sx":960,"sy":208,"tileW":50,"tileH":50,"frames":1}
+}

@@ -1,0 +1,5 @@
+{
+	"boatStart":{"sx":256,"sy":0,"tileW":128,"tileH":128,"frames":0},
+	"boatLeft":{"sx":128,"sy":0,"tileW":128,"tileH":128,"frames":0},
+	"boatRight":{"sx":384,"sy":0,"tileW":128,"tileH":128,"frames":0}
+}
